@@ -23,7 +23,7 @@
 💬 Ask me about Linux or any tech-related stuff.<br/>
 📫 How to reach me: Telegram: @mrR_E_Z_A<br/>
 😄 Pronouns: He/His<br/>
-⚡ Fun fact: I spend almost 12 hours listening to audio books and songs every day.<br/>
+⚡ Fun fact: I spend almost 8 hours listening to podcasts and songs every day.<br/>
 <br/>
 <br/>
 Languages and Tools:
