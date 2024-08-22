@@ -22,8 +22,6 @@
 🤔 I’m looking for help with Linux and Python documentation.<br/>
 💬 Ask me about Linux or any tech-related stuff.<br/>
 📫 How to reach me: Telegram: @mrR_E_Z_A<br/>
-😄 Pronouns: He/His<br/>
-⚡ Fun fact: I spend almost 8 hours listening to podcasts and songs every day.<br/>
 <br/>
 <br/>
 Languages and Tools:
