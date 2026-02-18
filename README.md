@@ -16,8 +16,6 @@
 
 <br/>
 <br/>
-🔭 I’m currently working on DNS Clustring Service.<br/>
-🌱 I’m currently learning more about Python Data Science.<br/>
 👯 I’m looking to collaborate on DevOps projects.<br/>
 🤔 I’m looking for help with Linux and Python documentation.<br/>
 💬 Ask me about Linux or any tech-related stuff.<br/>
